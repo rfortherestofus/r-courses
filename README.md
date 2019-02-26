@@ -51,6 +51,8 @@ https://www.williamrchase.com/slides/intro_r_anthropology_2018#28
 
 https://github.com/swirldev/swirl_courses#swirl-courses
 
+https://speakerdeck.com/lionelhenry/programming-in-the-tidyverse
+
 ## ggplot
 
 https://xvrdm.github.io/ggplotext_meetup/
