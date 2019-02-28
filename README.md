@@ -1,12 +1,13 @@
 # R Courses
 A list of basic/intermediate R courses. Will be updated/formatted soon.
 
+## Meta (i.e. other collections of courses, resources, etc
+
+[Paulhttps://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/
+
 ## General
 
-Slides and materials for the "Start with Data Science as an Introduction to Statistical Thinking" invited session at SDSS 2018
-https://github.com/mine-cetinkaya-rundel/start-with-ds
 
-https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/
 
 http://www.datacarpentry.org/socialsci-workshop/
 https://www.youtube.com/watch?v=u4nDomxRVoI
